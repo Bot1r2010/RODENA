@@ -1076,9 +1076,6 @@ export default function Rodena() {
         </div>
         <span className="jost muted" style={{ fontSize:10,letterSpacing:1,fontWeight:200 }}>{t.footer.copy}</span>
       </footer>
-
-
-
     </div>
   );
 }
